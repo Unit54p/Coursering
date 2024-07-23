@@ -1,0 +1,12 @@
+{
+  "name": "coursering",
+  "version": "1.0.0",
+  "main": "nav_handler.js",
+ "scripts": {
+  "dev": "npm run development"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
